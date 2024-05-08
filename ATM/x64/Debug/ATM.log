@@ -1,0 +1,13 @@
+﻿  ATM.cpp
+C:\Users\moham\source\repos\ATM\ATM\ATM.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\moham\source\repos\ATM\ATM\StringActions.h(30,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ATM.cpp')
+  
+C:\Users\moham\source\repos\ATM\ATM\ATM.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\moham\source\repos\ATM\ATM\ATM.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\moham\source\repos\ATM\ATM\GetIsYesNo.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ATM.cpp')
+  
+C:\Users\moham\source\repos\ATM\ATM\ATM.cpp(194,1): warning C4715: 'ReadClient': not all control paths return a value
+C:\Users\moham\source\repos\ATM\ATM\ATM.cpp(277,1): warning C4715: 'ReadWithdrawAmount': not all control paths return a value
+  ATM.vcxproj -> C:\Users\moham\source\repos\ATM\x64\Debug\ATM.exe
