@@ -21,7 +21,7 @@ Ensure you have a C++ compiler that supports C++11 or later. Here are some optio
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ATMOperationSystem.git
+git clone https://github.com/EngenMe/ATMOperationSystem.git
 cd ATMOperationSystem
 ```
 
